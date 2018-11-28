@@ -1,2 +1,22 @@
-# Getting-Started
-Getting Started with SpringFramework
+# Getting Started with SpringFramework
+#### : 스프링프레임워크 시작하기
+최초작성 : 2018/11/28 
+
+### 개요
+
+이 문서에서는 "스프링프레임워크 시작하기"에 대한 내용을 다루고 있습니다.
+<br> 미리 구성된 샘플에 설명을 곁들여 누구나 쉽게 시작할 수 있도록 작성하였습니다.
+
+#### 목차
+* 분석단계
+* 준비단계
+  * 개발환경 설정
+* 구성단계
+  * 샘플 다운로드
+  * 샘플 설정
+  * 실행하기
+
+#### 코드 
+<pre><code></code></pre>
+
+<hr/>
